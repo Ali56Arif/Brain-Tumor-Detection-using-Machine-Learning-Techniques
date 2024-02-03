@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection-using-Machine-Learning-Techniques
-VGG16 or VGG19: Good for basic image classification tasks.
+I'm Using **VGG19**: Good for basic image classification tasks.
 The Above Dataset file contains the following items:
 
 A CSV file named Brain Tumor.csv
